@@ -1,6 +1,9 @@
 #include<iostream>
 
-using namespace std;
+void cout()
+{
+    std::cout <<"Hello bro i am here______!";
+}
 
 int main ()
 {
